@@ -3,10 +3,6 @@
 ## Election Analysis
 This Python script analyzes election data from a CSV file to determine the total votes, the percentage of votes for each candidate, and the overall winner.
 
-# Getting Started
-Clone the repository to your local machine.
-Ensure you have Python installed.
-
 # Usage
 Run the script election_analysis.py to perform the election analysis. The results will be displayed in the console and saved to a text file (election_results.txt).
 
@@ -15,9 +11,6 @@ A Python script to analyze financial data from a CSV file, providing key insight
 
 # Overview
 The PyBank Financial Analysis script reads data from a CSV file containing financial information of a company's data and performs various calculations to generate insightful results. This includes metrics such as total months, total profits, average change, greatest increase in profits, and greatest decrease in profits.
-
-# Getting Started
-Python
 
 # Usage
 Run the script: Pybank.py 
