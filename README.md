@@ -17,7 +17,7 @@ A Python script to analyze financial data from a CSV file, providing key insight
 The PyBank Financial Analysis script reads data from a CSV file containing financial information of a company's data and performs various calculations to generate insightful results. This includes metrics such as total months, total profits, average change, greatest increase in profits, and greatest decrease in profits.
 
 # Getting Started
-Python (version 3.x recommended)
+Python
 
 # Usage
 Run the script: Pybank.py 
